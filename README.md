@@ -1,16 +1,16 @@
-# CV
+# 📄 CV
 
 Welcome to my resume repository!  
-Here you can find my up-to-date CVs in PDF format.
+Here you can find my up-to-date CVs in PDF format, as well as my cover letter.
 
-## 📄 Available versions
+## ✅ Available Versions
 
-- [📎 English version (PDF)](https://github.com/OlenaAvramenko/CV/blob/main/Olena_Avramenko_CV_EN.pdf)
+- 📌 [English version (PDF)](Olena_Avramenko_CV_EN.pdf)  
 - 🇺🇦 Ukrainian version – coming soon
 
 ## 💌 Cover Letter
 
-You can also view my cover letter in English and Ukrainian:  
+You can also view my general-purpose cover letter (freelance-oriented), available in English and Ukrainian:  
 📄 [Read Cover Letter](Olena_Avramenko_Cover_Letter.md)
 
 ---
