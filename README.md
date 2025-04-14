@@ -4,8 +4,8 @@ Welcome to my resume repository!
 Here you can find my up-to-date CVs in PDF format, as well as my cover letter.
 
 ## ✅ Available Versions
-📌 English version (PDF)
-🇺🇦 Ukrainian version (PDF)
+📌 [English version (PDF)](Olena_Avramenko_CV_EN.pdf) | 🇺🇦 [Ukrainian version (PDF)](Olena_Avramenko_CV_UA.pdf)
+
 
 ## 💌 Cover Letter
 
