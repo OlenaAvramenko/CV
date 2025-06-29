@@ -10,7 +10,7 @@ I’m a Junior Data Analyst with a background in real estate and over a decade o
 As a business owner, I developed skills such as independent decision-making, time management, and clear communication — all of which now strengthen my approach to data projects. I enjoy uncovering insights, building dashboards, and making data understandable and actionable.
 
 My toolkit includes:  
-**SQL** (joins, CTEs, aggregation) • **Python (Pandas, Jupyter)** • **Tableau** • **Looker Studio** • **Amplitude** • **BigQuery** • **A/B testing** • **Google Sheets**
+**SQL** (joins, CTEs, aggregation) • **Python (Pandas, Jupyter)** • **Tableau** • **Power BI**• **Looker Studio** • **Amplitude** • **BigQuery** • **A/B testing** • **Google Sheets**
 
 I’m currently open to **remote freelance projects**, where I can contribute to data-driven decision-making and grow as a specialist.
 
@@ -36,7 +36,7 @@ Warm regards,
 Як власниця агенції нерухомості, я звикла самостійно приймати рішення, дотримуватись дедлайнів, чітко комунікувати з командою та клієнтами. Тепер ці якості допомагають мені в роботі з даними — від очищення до побудови дашбордів і пошуку аналітичних інсайтів.
 
 Мої основні інструменти:  
-**SQL** (joins, CTEs, aggregation) • **Python (Pandas, Jupyter)** • **Tableau** • **Looker Studio** • **Amplitude** • **BigQuery** • **A/B тестування** • **Google Sheets**
+**SQL** (joins, CTEs, aggregation) • **Python (Pandas, Jupyter)** • **Tableau** • **Power BI** • **Looker Studio** • **Amplitude** • **BigQuery** • **A/B тестування** • **Google Sheets**
 
 Наразі я **відкрита до віддалених фриланс-проєктів**, у яких можу застосувати свої навички для прийняття рішень на основі даних.
 
