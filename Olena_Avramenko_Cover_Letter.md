@@ -50,3 +50,31 @@ Telegram: **@olena_avramenko**
 Дякую за увагу та розгляд!  
 З повагою,  
 **Олена Авраменко**
+
+---
+
+## 🇫🇷 Version française
+
+**Madame, Monsieur,**
+
+Je suis Junior Data Analyst avec une solide expérience dans l’immobilier et plus de 10 ans en tant que chef d’entreprise.
+Récemment diplômée d’un programme intensif en analyse de données, je combine aujourd’hui une pensée analytique rigoureuse avec une compréhension approfondie des processus métier.
+
+En tant qu’ancienne dirigeante d’une agence immobilière, j’ai l’habitude de prendre des décisions stratégiques, de respecter les délais, de communiquer efficacement avec les équipes et les clients. Ces compétences sont aujourd’hui un atout majeur dans mes missions en data analyse — du nettoyage des données à la création de dashboards et à la recherche d’insights pertinents.
+
+Mes outils de prédilection :
+**SQL** (joins, CTE, agrégation) • **Python (Pandas, Jupyter)** • **Tableau** • **Power BI** (mesures DAX, segmentation, drill-through) • **Looker Studio** • **Amplitude** • **BigQuery** • **Tests A/B** • **Google Sheets**
+
+Je suis actuellement ouverte aux projets freelance à distance, dans lesquels je peux mettre à profit mes compétences pour faciliter la prise de décision basée sur les données.
+
+📂 Mon CV et portfolio sont disponibles sur GitHub :
+👉 [github.com/OlenaAvramenko](https://github.com/OlenaAvramenko)
+
+📬 Au plaisir d’échanger avec vous !
+Email : **avramenko.ele@gmail.com**
+Telegram : **@olena_avramenko**
+
+Merci pour votre attention et votre considération.
+Bien cordialement,
+**Olena Avramenko**
+
